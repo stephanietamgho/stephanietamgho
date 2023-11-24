@@ -3,7 +3,7 @@
 <h2>👩‍💻 Information Technology Projects I worked on:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/stephanietamgho/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/stephanietamgho/osticket-installprocess)
   - [osTicket: Post-Installation Configuration](https://github.com/stephanietamgho/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/stephanietamgho/ticket-lifecycle)
 
