@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/stephanietamgho/osticket-installprocess)
   - [osTicket: Post-Installation Configuration](https://github.com/stephanietamgho/os-ticket-postinstall)
-  - [osTicket: Ticket Lifecycle (Creation, Triage and Resolution)](https://github.com/stephanietamgho/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle (Creation, Triage, Communication and Resolution)](https://github.com/stephanietamgho/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stephanietamgho/azure-network-protocols)
