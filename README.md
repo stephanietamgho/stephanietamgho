@@ -9,7 +9,7 @@
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stephanietamgho/azure-network-protocols)
-  - [Implementing Active Directory (On-Premises) in Azure](https://github.com/stephanietamgho/azure-network-protocols)
+  - [Implementing Active Directory (On-Premises) in Azure](https://github.com/stephanietamgho/microsoftazure-directory-deployment)
 
 <h2>🤳Connect with me:</h2>
 
