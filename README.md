@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stéphanie, a <a href="https://linkedin.com/in/stephanietamgho">IT Professional</a> 😊!</h1>
+<h1>Hi, I'm Stéphanie, a <a href="https://linkedin.com/in/stephanietamgho">IT Professional in-becoming</a> 😊!</h1>
 
 <h2>👩‍💻 Information Technology Projects I worked on:</h2>
 
