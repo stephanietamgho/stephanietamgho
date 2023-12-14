@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stephanietamgho/azure-network-protocols)
   - [Implementing Active Directory (On-Premises) in Azure](https://github.com/stephanietamgho/microsoftazure-directory-deployment)
 
-- <b>Final Exam Project:</b> 
+- <b>Final Exam Project </b> 
   - [Virtual Network Peering and Monitoring Network Traffic with Packet Capture in Microsoft Azure](https://github.com/stephanietamgho/microsoftazure-peering-packetcapture)
 
 
